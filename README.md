@@ -8,4 +8,4 @@
 <h3>Preview</h3>
 
 <h5 style="text-align: center;">01.Image </h5>
-<img src="https://telegra.ph/file/32ba938d4d056859f6200.jpg" alt="Start face">
+<img src="https://telegra.ph/file/03be0e56adffada5f2883.jpg" alt="Start face">
